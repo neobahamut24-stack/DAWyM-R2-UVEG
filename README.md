@@ -49,7 +49,6 @@ El servidor web utilizado es Apache, instalado mediante XAMPP en Windows.
 La configuración del Virtual Host permite acceder a la aplicación mediante:
 
 - [http://gestor-tereas-uveg.local/](http://gestor-tereas-uveg.local/)
-- [http://localhost/gestor-tereas-UVEG/](http://localhost/gestor-tereas-UVEG/)
 
 Estas direcciones son de uso local; no representan una publicación pública en Internet.
 
