@@ -58,5 +58,6 @@ Se comprobó la sintaxis de la configuración de Apache con `httpd.exe -t`, cuyo
 
 ## Autor
 
-Vicente Saúl Jaramillo Domínguez
+Vicente Saúl Jaramillo Domínguez.
+
 Proyecto académico UVEG.
