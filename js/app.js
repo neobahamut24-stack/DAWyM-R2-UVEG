@@ -69,8 +69,8 @@ formulario.addEventListener("submit", evento => {
     }
 
     tareas.push({
-        id: crypto.randomUUID(),
-        texto,
+        id: Date.now() + Math.random(),
+        texto: texto,
         completada: false
     });
 
